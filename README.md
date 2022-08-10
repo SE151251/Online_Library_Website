@@ -49,4 +49,9 @@ Assignment for `Java Web Application Development (PRJ301)` subject at FPT Univer
 
 ## License & copyright
 
-© Nguyen Ho Tien Dat - SE151251
+© Group LA: 
+- Nguyễn Hồ Tiến Đạt - SE151251
+- Lê Minh Thiện - SE151226
+- Nguyễn Trọng Nguyên - SE151227
+- Đỗ Cao Tường - SE151377
+

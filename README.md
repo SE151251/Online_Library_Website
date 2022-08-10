@@ -11,6 +11,7 @@ Assignment for `Java Web Application Development (PRJ301)` subject at FPT Univer
 ## ⚙️ Technology
 
 - Front End
+  - `HTML/CSS`
   - `Bootstrap 4`
   - `JSTL` - Standard Tag Library for JSP
 - Backend
@@ -18,7 +19,7 @@ Assignment for `Java Web Application Development (PRJ301)` subject at FPT Univer
   - `JDBC` - A Java API to connect and execute the query with the database
   - `MS SQL` - A relational database management system developed by Microsoft
 
-## 🌿 Preview images
+## Preview images
 
 ![Source code](https://github.com/SE151251/Online_Library_Website/blob/main/img_show/login.PNG)
 ![Source code](https://github.com/SE151251/Online_Library_Website/blob/main/img_show/register.PNG)
